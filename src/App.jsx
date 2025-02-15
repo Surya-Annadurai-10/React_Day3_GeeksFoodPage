@@ -2,7 +2,7 @@ import Nav from './nav/nav';
 import Hero from './hero/hero'
 import MainSection from './mainSection/mainSection'
 import Cards from './cards/cards'
-import Footer from './footer/Footer';
+import Footer from './footer/FooterSection';
 
 
 function App() {

@@ -1,4 +1,4 @@
-import styles from './footer.module.css'
+import styles from './FooterSection.module.css'
 import myImage from './footer.png'
 
 function Footer(){
